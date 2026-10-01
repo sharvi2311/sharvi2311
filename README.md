@@ -29,3 +29,63 @@ Here are some ideas to get you started:
 <div align="center">
 <sub>engineered in code, directed in daydreams</sub>
 </div>
+
+
+# 🛡️ About Me
+
+Hi! I'm **Your Name** 👋
+
+I'm a developer and cybersecurity enthusiast focused on building secure applications, exploring cutting-edge AI architectures, and understanding advanced computing paradigms.
+
+- 🔒 **Focus:** Cybersecurity, Application Security & Secure System Design
+- 🤖 **Interests:** AI & Machine Learning, Web Development, Quantum Computing
+- 🌱 **Currently Learning:** 
+  - **Security:** OWASP Top 10 & Web Application Penetration Testing
+  - **AI / ML:** Transformer Architectures & Attention Mechanisms
+  - **Core Systems:** Linux Systems Administration & Advanced Bash Scripting
+  - **Emerging Tech:** Quantum Computing Principles & Algorithms
+- 🚀 **Goals:** Developing custom security analysis tools, building privacy-focused applications, and creating educational security write-ups
+
+---
+
+## 🛠️ Languages & Tools
+
+### 💻 Core Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,c,cpp,js,react,git,docker" />
+</p>
+
+### 🛡️ Security & Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash Scripting](https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white)
+
+### ⚛️ AI & Quantum Exploration
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+- 🛡️ **[Security / Bash Tool](https://github.com/yourusername/project1)** – Automated Bash scripts for reconnaissance and OWASP vulnerability checking.
+- 🤖 **[Transformer Implementation](https://github.com/yourusername/project2)** – Lightweight transformer/attention implementation built for learning model internals.
+- ⚛️ **[Quantum Experiments](https://github.com/yourusername/project3)** – Basic quantum circuit simulations and algorithms using Qiskit.
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=cyberpunk)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=cyberpunk)
+
+---
+
+## 💌 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
