@@ -1,0 +1,38 @@
+name: Generate Stats and Top Languages SVGs
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+jobs:
+  generate-svgs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Stats SVG
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          output_filename: stats.svg
+          options: '{"username":"${{ github.repository_owner }}","show_icons":true,"theme":"cyberpunk"}'
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages SVG
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          output_filename: top-langs.svg
+          options: '{"username":"${{ github.repository_owner }}","layout":"compact","theme":"cyberpunk"}'
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push SVGs
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add stats.svg top-langs.svg
+          git commit -m "chore: update profile stats svgs" || exit 0
+          git push
