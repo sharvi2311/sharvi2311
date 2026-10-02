@@ -71,9 +71,9 @@ I'm a developer and cybersecurity enthusiast focused on building secure applicat
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=cyberpunk)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=cyberpunk)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=cyberpunk)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharvi2311&show_icons=true&theme=cyberpunk)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharvi2311&layout=compact&theme=cyberpunk)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharvi2311&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
