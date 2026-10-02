@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sharvi2311/sharvi2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,18 +15,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  
-  ![snake gif](https://github.com/sharvi2311/sharvi2311/blob/output/github-snake-dark.svg)
-</div>
-
-<br/>
-
-<div align="center">
-<sub>engineered in code, directed in daydreams</sub>
-</div>
 
 
 # 🌸 About Me
@@ -87,3 +74,16 @@ I'm a developer and cybersecurity enthusiast focused on building secure applicat
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chougulesharvi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharvi-chougule-946379345/)
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+  ![snake gif](https://github.com/sharvi2311/sharvi2311/blob/output/github-snake-dark.svg)
+</div>
+
+<br/>
+
+<div align="center">
+<sub>engineered in code, directed in daydreams</sub>
+</div>
