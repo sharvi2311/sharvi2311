@@ -52,10 +52,10 @@ I'm a developer and cybersecurity enthusiast focused on building secure applicat
 
 ### 💻 Core Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,c,cpp,js,react,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,c++" />
 </p>
 
-### 🛡️ Security & Environment
+### 🛡️ Security & Environment 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash Scripting](https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
@@ -65,7 +65,6 @@ I'm a developer and cybersecurity enthusiast focused on building secure applicat
 ### ⚛️ AI & Quantum Exploration
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
 
 ---
 
@@ -86,6 +85,5 @@ I'm a developer and cybersecurity enthusiast focused on building secure applicat
 
 ## 💌 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chougulesharvi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharvi-chougule-946379345/)
