@@ -72,7 +72,6 @@ I'm a developer and cybersecurity enthusiast focused on building secure applicat
 
 ## 💌 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chougulesharvi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharvi-chougule-946379345/)
 
 ## 🐍 Contribution Snake
