@@ -17,7 +17,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          output_filename: stats.svg
+          path: stats.svg
           options: '{"username":"${{ github.repository_owner }}","show_icons":true,"theme":"cyberpunk"}'
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -25,7 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          output_filename: top-langs.svg
+          path: top-langs.svg
           options: '{"username":"${{ github.repository_owner }}","layout":"compact","theme":"cyberpunk"}'
           token: ${{ secrets.GITHUB_TOKEN }}
 
