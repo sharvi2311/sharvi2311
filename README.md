@@ -31,20 +31,22 @@ Here are some ideas to get you started:
 </div>
 
 
-# 🛡️ About Me
+# 🌸 About Me
 
-Hi! I'm **Your Name** 👋
+Hi! I'm **Sharvi** 👋
 
 I'm a developer and cybersecurity enthusiast focused on building secure applications, exploring cutting-edge AI architectures, and understanding advanced computing paradigms.
 
 - 🔒 **Focus:** Cybersecurity, Application Security & Secure System Design
-- 🤖 **Interests:** AI & Machine Learning, Web Development, Quantum Computing
+- 🤖 **Interests:** NLP & Transformer Networks, Quantum Computing & Cryptography, Ethical Hacking &Penetration Testing
 - 🌱 **Currently Learning:** 
   - **Security:** OWASP Top 10 & Web Application Penetration Testing
   - **AI / ML:** Transformer Architectures & Attention Mechanisms
   - **Core Systems:** Linux Systems Administration & Advanced Bash Scripting
   - **Emerging Tech:** Quantum Computing Principles & Algorithms
-- 🚀 **Goals:** Developing custom security analysis tools, building privacy-focused applications, and creating educational security write-ups
+  - **Languages:** C++, Python
+- ⚙️ **Currently Working On:** Yutori - A personalized to-do organizer for students
+- 🚀 **Goals:** Developing custom security analysis tools, building privacy-focused applications, 
 
 ---
 
@@ -68,20 +70,14 @@ I'm a developer and cybersecurity enthusiast focused on building secure applicat
 
 ---
 
-## 🚀 Featured Projects
-
-- 🛡️ **[Security / Bash Tool](https://github.com/yourusername/project1)** – Automated Bash scripts for reconnaissance and OWASP vulnerability checking.
-- 🤖 **[Transformer Implementation](https://github.com/yourusername/project2)** – Lightweight transformer/attention implementation built for learning model internals.
-- ⚛️ **[Quantum Experiments](https://github.com/yourusername/project3)** – Basic quantum circuit simulations and algorithms using Qiskit.
-
----
-
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=cyberpunk)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=cyberpunk)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=cyberpunk)
 
 ---
+
 
 ## 💌 Connect With Me
 
