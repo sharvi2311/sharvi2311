@@ -43,7 +43,6 @@ I'm a developer and cybersecurity enthusiast focused on building secure applicat
   - **Security:** OWASP Top 10 & Web Application Penetration Testing
   - **AI / ML:** Transformer Architectures & Attention Mechanisms
   - **Core Systems:** Linux Systems Administration & Advanced Bash Scripting
-  - **Emerging Tech:** Quantum Computing Principles & Algorithms
   - **Languages:** C++, Python
 - ⚙️ **Currently Working On:** Yutori - A personalized to-do organizer for students
 - 🚀 **Goals:** Developing custom security analysis tools, building privacy-focused applications, 
