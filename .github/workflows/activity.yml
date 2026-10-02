@@ -13,11 +13,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate 3D Activity Graph SVG
-        uses: yoshi3861/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+      - name: Generate Activity Graph
+        uses: Ashutosh00710/github-readme-activity-graph@main
+        with:
+          username: ${{ github.repository_owner }}
+          theme: github
+          hide_border: true
+          hide_title: false
 
       - name: Commit and Push Activity SVG
         run: |
