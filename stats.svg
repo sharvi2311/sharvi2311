@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Sharvi Chougule&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 10, Total Commits  (last year) : 41, Total PRs: 0, Total Issues: 0, Contributed to (last year): 1</desc>
+        <title id="titleId">Sharvi Chougule&#39;s GitHub Stats, Rank: C+</title>
+        <desc id="descId">Total Stars Earned: 17, Total Commits  (last year) : 41, Total PRs: 0, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 222.9429774314695;
+        stroke-dashoffset: 215.6490641395529;
       }
     }
   
@@ -150,7 +150,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C
+          C+
         </text>
       
         </g>
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >10</text>
+      >17</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
